@@ -1,0 +1,22 @@
+[
+    {
+        "email": "alex@example.com",
+        "name": "Alex Li",
+        "address": {
+            "number": 123,
+            "street": "First St",
+            "city": "New York",
+            "state": "NY"
+        }
+    },
+    {
+        "email": "tom@example.com",
+        "name": "Tom Lee",
+        "address": {
+            "number": 456,
+            "street": "Second St",
+            "city": "San Francisco",
+            "state": "CA"
+        }
+    }
+]
